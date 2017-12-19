@@ -1,0 +1,2 @@
+# rails-fun
+RoR fun
