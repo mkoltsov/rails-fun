@@ -1,0 +1,4 @@
+rails new simpleblog
+rails server
+rails g controller Posts
+rake routes
